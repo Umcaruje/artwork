@@ -16,10 +16,10 @@
    id="svg5092"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/umcaruje/lmmsfork/lmms/targetmaster/share/lmms/themes/default/flip_y.png"
+   inkscape:export-filename="/home/umcaruje/github/lmms/data/themes/default/flip_y.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="automation-flip-x-y.svg">
+   sodipodi:docname="automation_flip_icons.svg">
   <defs
      id="defs5094">
     <linearGradient
@@ -367,7 +367,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.96"
-     inkscape:cx="4.7872987"
+     inkscape:cx="-0.50699742"
      inkscape:cy="8.5069363"
      inkscape:document-units="px"
      inkscape:current-layer="layer10"
@@ -399,7 +399,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="flip y"
-     style="display:none">
+     style="display:inline">
     <g
        id="g7780"
        style="filter:url(#filter7796)">
@@ -421,7 +421,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="flip x"
-     style="display:inline">
+     style="display:none">
     <g
        id="g7738"
        style="filter:url(#filter7742)">
